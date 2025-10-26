@@ -4,7 +4,7 @@ const cars = {
   tesla: { price: 70000, inStock: 2 },
   ford: { price: 25000, inStock: 8 }
 }
-const x=0;
+const x=0;g
 
 const bestSeller = {
     name : '',
