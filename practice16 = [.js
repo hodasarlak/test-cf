@@ -99,4 +99,5 @@ Object.entries(seniorCount).forEach (item => {
     max = item[1]
  }
 })
-console.log(name )
+console.log(name)
+const test = 0;
